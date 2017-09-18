@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Smack
 //
-//  Created by Ahmet Ayyildiz on 17/09/2017.
-//  Copyright © 2017 ayyildizSoftware. All rights reserved.
+//  Created by Jonny B on 7/14/17.
+//  Copyright © 2017 Jonny B. All rights reserved.
 //
 
 import UIKit
